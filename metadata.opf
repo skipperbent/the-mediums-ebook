@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">599a46ad-b094-41f0-8c43-b734d0451d93</dc:identifier>
+        <dc:title>Mediernes Bog</dc:title>
+        <dc:creator opf:file-as="Kardec, Allan" opf:role="aut">Allan Kardec</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Mediebogen er den logiske fortsættelse af Allan Kardecs første bind, Åndernes Bog. Hvis sidstnævnte etablerer det teoretiske grundlag for læren, beskæftiger Mediebogen sig med dens praktiske aspekter. Gennem hele bogen trækker forfatteren en forbindelse mellem de teoretiske og eksperimentelle aspekter af mediumistiske evner og inviterer os til at følge denne praksis i detaljer med højt kvalificerede væsener.&lt;/p&gt;
+&lt;p align="justify"&gt;Mediebogen, som beskæftiger sig med naturlige og overnaturlige evner, består af to dele. I den første del gennemgår Allan Kardec de indledende forestillinger om åndeverdenen, beskæftiger sig med ånders eksistens, det overnaturlige og det forunderlige, metoden til at gå frem med materialister og skeptikere samt systemerne.&lt;/p&gt;
+&lt;p align="justify"&gt;Den anden del beskæftiger sig med åndelige manifestationer og udgør analysen og eksperimentaliteten af ​​den spiritistiske metode til viden og kommunikation, hvis fundament ligger i menneskets mediumskabsevne.&lt;/p&gt;
+&lt;p align="justify"&gt;Mediebogen indeholder den særlige lære om ånder i teorien om alle slags manifestationer, midler til at kommunikere med den usynlige verden, udvikling af mediumskab, vanskeligheder og faldgruber, der kan opstå i udøvelsen af ​​spiritisme.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Ebog version: 1.0 (juni 2026)&lt;br&gt;Opslag &amp;amp; opsætning: Simon Sessingø (simon.sessingoe@gmail.com)&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788799738915</dc:identifier>
+        <dc:language>dan</dc:language>
+        <dc:subject>Death</dc:subject>
+        <dc:subject>Spirits</dc:subject>
+        <dc:subject>Arthur Conan Doyle</dc:subject>
+        <dc:subject>God</dc:subject>
+        <dc:subject>Scepcop</dc:subject>
+        <dc:subject>Spiritism</dc:subject>
+        <dc:subject>Karmic law</dc:subject>
+        <dc:subject>Remote viewing</dc:subject>
+        <dc:subject>spheres</dc:subject>
+        <dc:subject>Swedenborg</dc:subject>
+        <dc:subject>Conversations with Arthur Conan Doyle. The New Revelation</dc:subject>
+        <dc:subject>Channeling</dc:subject>
+        <dc:subject>Telepathy</dc:subject>
+        <dc:subject>Letters from a living dead man</dc:subject>
+        <dc:subject>Theosophy</dc:subject>
+        <dc:subject>Materialism</dc:subject>
+        <dc:subject>Spiritualism</dc:subject>
+        <dc:subject>Trance Medium. Mediumship</dc:subject>
+        <dc:subject>Inspired writing</dc:subject>
+        <dc:subject>Great White Brotherhood</dc:subject>
+        <dc:subject>D D Home</dc:subject>
+        <dc:subject>Letters from Julia. Incidents in my life</dc:subject>
+        <dc:subject>Brazilian Medium</dc:subject>
+        <dc:subject>Spiritualist</dc:subject>
+        <dc:subject>Daniel Dunglas Home</dc:subject>
+        <dc:subject>Unseen world</dc:subject>
+        <dc:subject>Life after death</dc:subject>
+        <dc:subject>Consciousness</dc:subject>
+        <dc:subject>Reincarnation</dc:subject>
+        <dc:subject>Chico Xavier</dc:subject>
+        <dc:subject>Automatic writing</dc:subject>
+        <dc:subject>Paranormal</dc:subject>
+        <dc:subject>Jesus</dc:subject>
+        <dc:subject>Akashic Records</dc:subject>
+        <dc:subject>Victor Zammit</dc:subject>
+        <dc:subject>Ghosts</dc:subject>
+        <dc:subject>Blavatsky</dc:subject>
+        <meta name="calibre:timestamp" content="2026-06-28T18:12:11.117127+00:00"/>
+        <meta name="calibre:title_sort" content="Mediernes Bog"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Omslag" href="cover.jpg"/>
+    </guide>
+</package>
