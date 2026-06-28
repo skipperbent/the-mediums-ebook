@@ -13,27 +13,27 @@ Feel free to use, distribute or translate the work.
 
 ### Physical copy
 Support the work and buy the physical copy of the book here:<br>
-https://kardec.dk/books/ws-/products/%C3%A5ndernes-bog
+https://kardec.dk/books/ws-/products/mediernes-bog
 
 ### Credits
 
-**Original titel:** Le Livre des Esprits<br>
-**Forfatter:** Allan Kardec<br>
-1\. fransk oplag af d. 18 april 1857
+Forfatter: Allan Kardec (1804-1869)<br>
+3. danske udgave København, 2017, 1. oplag<br>
+**Original titel:** Le livre des Médiums<br>
+Udgivet første gang i Paris, Frankrig, 1861
 
-Udgivet af Kardec Spiritister
+Digitalisering af den danske udgave fra 1904: Vera Lucia Borges Palmgren
+Modernisering af sproget og revision: Jette B.B. Andersen og Sonia Regina de Araujo<br>
+**Opsætning:** Balle Grafik<br>
+**Omslag:** Vivianne Guillaumon Thomsen
 
-**Omslag:** Vivianne Guillaumom Thomsen og Flemming Hinnerskov<br>
-**Opsætning:** Benny de Molade, molade@paradis.dk<br>
-**Copyrights:** Kardec Spiritister, Spiritist Forening Allan Kardec, Denmark & International Spiritist Council, Distrito Federal, Brasil.<br>
-**Trykt hos:** Scandinavian Book A/S, Århus
+Baseret på 2. danske udgave oversat af Cand.Mag. Sigurd Trier efter franske udgaves 36.oplag, udgivet af V. Pio’s Boghandel, 1904
 
-**ISBN:** 978-87-999791-1-0
+**Copyright:** Spiritist Forening Allan Kardec GEEAK-DK
 
-Dansk udgave<br>
-1\. oplag udgivet 1893, oversat fra d. 23. fransk udgave<br>
-2\. udgave, 1.oplag 2014<br>
-3\. revideret udgave, 1. oplag 2018
+**Trykt hos:** Scandinavian Books
+
+**ISBN:** 978-87-997389-1-5
 
 **E-bog:** version 1.0 (juni 2026)<br>
 **Omslag & opsætning:** Simon Sessingø, simon.sessingoe@gmail.com 
